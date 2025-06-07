@@ -2,7 +2,8 @@
 
 A classic Tic-Tac-Toe game implemented in Python with both text-based console and graphical interfaces. Play against another human or challenge the AI with different difficulty levels.
 
-![Tic-Tac-Toe Game](https://via.placeholder.com/800x600?text=Tic-Tac-Toe+Game)
+![image](https://github.com/user-attachments/assets/0edb139e-b453-4edc-8385-466afe0ad7de)
+
 
 ## Features
 
@@ -59,6 +60,9 @@ python tic_tac_toe.py
 - Press 'q' to quit at any time
 
 ### Graphical Version
+
+
+
 
 Run the graphical version:
 ```
