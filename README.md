@@ -4,6 +4,11 @@ A classic Tic-Tac-Toe game implemented in Python with both text-based console an
 
 ![image](https://github.com/user-attachments/assets/0edb139e-b453-4edc-8385-466afe0ad7de)
 
+## Original Prompt
+
+This game was created based on the following prompt:
+
+> "Create a new folder and build a tic-tac-toe game where players can choose to play against a simple AI or another human. Use Python to create the game board, implement the game logic, and develop a basic AI opponent using a minimax algorithm. Include a clean graphical or text based display."
 
 ## Features
 
