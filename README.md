@@ -50,6 +50,9 @@ A classic Tic-Tac-Toe game implemented in Python with both text-based console an
 
 ### Text-Based Version
 
+![image](https://github.com/user-attachments/assets/78223bd4-0810-4726-bfcf-d1b1963a33e3)
+
+
 Run the text-based version:
 ```
 python tic_tac_toe.py
@@ -61,6 +64,7 @@ python tic_tac_toe.py
 
 ### Graphical Version
 
+![image](https://github.com/user-attachments/assets/c2715762-32f9-40ec-a45b-1cd70666686d)
 
 
 
@@ -114,6 +118,4 @@ The AI uses the minimax algorithm with alpha-beta pruning to determine the optim
 - Create a networked multiplayer option
 - Develop additional AI strategies
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
